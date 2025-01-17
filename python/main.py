@@ -1,6 +1,4 @@
 from typing import List
-import numpy as np
-from numpy import fft
 
 
 def romanToIn(s: str) -> int:
